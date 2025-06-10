@@ -122,7 +122,7 @@ a.nav-item.nav-link {
 
 /*  Banner-Section */
 section.banner {
-    background: url("/images/banner-bg.jpg") center center no-repeat;
+    background: url("../images/banner-bg.jpg") center center no-repeat;
     background-size: cover;
     padding: 53px 0px 80px 0px;
     position:relative;
@@ -292,7 +292,7 @@ p.banner-card-p {
 }
 /* serve-section */
 section.serve {
-    background: url("/images/sec-bg.png") center center no-repeat;
+    background: url("../images/sec-bg.png") center center no-repeat;
     background-size: cover;
 }
 section.serve {
@@ -402,7 +402,7 @@ p.service-card-p {
     display: none;
 }
 .service-cor .owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot {
-    background: url("/images/ser-next.png")center center no-repeat !important;
+    background: url("../images/ser-next.png")center center no-repeat !important;
     color: inherit;
     border: none;
     padding: 0!important;
@@ -452,7 +452,7 @@ background:#fff;
 }
 /* choose-section */
 section.choose {
-    background: url("/images/sec-bg.png") center center no-repeat;
+    background: url("../images/sec-bg.png") center center no-repeat;
     background-size: cover;
 }
 h1.choose-head {
@@ -753,7 +753,7 @@ button.case-card.btn {
 
 /* coverage-section */
 section.coverage {
-    background: url("/images/coverage-bg.jpg") center center no-repeat;
+    background: url("../images/coverage-bg.jpg") center center no-repeat;
     background-size: cover;
     position: relative;
     z-index: 1;
@@ -789,7 +789,7 @@ p.coverage-p {
 
 /* approach-section */
 section.approach {
-    background: url("/images/sec-bg.png") center center no-repeat;
+    background: url("../images/sec-bg.png") center center no-repeat;
     background-size: cover;
 }
 .approach-head {
@@ -844,7 +844,7 @@ section.award:before {
     height: 100%;
     top: 0;
     left: 0;
-    background: url("/images/award.jpg") center center no-repeat;
+    background: url("../images/award.jpg") center center no-repeat;
     background-size: cover;
     filter: opacity(5%);
     z-index: -1;
@@ -998,7 +998,7 @@ h1.faq-head {
     margin-right: auto;
     position: absolute;
     left:20px;
-    background-image: url("/images/faq-arrow.png");
+    background-image: url("../images/faq-arrow.png");
     
     background-size: cover !important;
 }
@@ -1006,7 +1006,7 @@ h1.faq-head {
     
     width: 10px !important;
     height: 20px !important;
-    background-image: url("/images/faq-arrow.png");
+    background-image: url("../images/faq-arrow.png");
     
     background-size: cover !important;
     transform: rotate(90deg)!important ;
@@ -1034,7 +1034,7 @@ h2.accordion-header {
 
 /* promote-section */
 section.audit.promote {
-    background: url("/images/Why Choose Us.png") center center no-repeat;
+    background: url("../images/Why Choose Us.png") center center no-repeat;
     background-size:cover;
 }
 
@@ -1199,7 +1199,7 @@ img.cal {
 /* map-section */
 .map{
     padding:80px 0px;
-    background:url("/images/Why Choose Us.jpg") center center no-repeat;
+    background:url("../images/Why Choose Us.jpg") center center no-repeat;
     background-size:cover;
 }
 .map-content .row {
@@ -1234,7 +1234,7 @@ iframe.map-map {
 
 /* footer-section */
 footer.foot {
-    background: url("/images/Footer.png") center center no-repeat;
+    background: url("../images/Footer.png") center center no-repeat;
     background-size: cover;
 }
 h4.contact {
